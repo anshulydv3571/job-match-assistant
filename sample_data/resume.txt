@@ -1,0 +1,3 @@
+﻿Computer Science student skilled in Python, Java, SQL and MySQL.
+Built an Amazon price tracker using Selenium, BeautifulSoup, pandas and Streamlit.
+Wrote tests with pytest. Familiar with Git, GitHub, React and data analysis.
